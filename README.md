@@ -123,8 +123,6 @@
 
 <p>The platform evolved to include automated linear programming, electronic program guides, and persistent streaming technology.</p>
 
-<p><a href="https://podcasttelevision.com">PodcastTelevision.com</a></p>
-
 <h3>Ask Odi | AI Systems</h3>
 
 <p>Artificial Intelligence, Software Agents & Automation</p>
